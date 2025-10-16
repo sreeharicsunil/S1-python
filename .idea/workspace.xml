@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a795b05-0996-4a4a-ac0a-705ef7d250d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/greater_than_100_store_over.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/count_of_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/count_of_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/area_of_a_circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biggest_among_3_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/character_exchange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compute_n+nn+nnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_extension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_and_last_in_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replace_with_$.py" beforeDir="false" afterPath="$PROJECT_DIR$/replace_with_$.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="33BN7HfPcTJ8zkKDPwAnCGDMQ5s" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,7 +43,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.area_of_a_circle.executor": "Run",
+    "Python.biggest_among_3_numbers.executor": "Run",
+    "Python.character exchange.executor": "Run",
+    "Python.compare_two_lists.executor": "Run",
+    "Python.compute_n+nn+nnn.executor": "Run",
     "Python.count of words.executor": "Run",
+    "Python.file_extension.executor": "Run",
+    "Python.first_and_last_in_list.executor": "Run",
+    "Python.greater_than_100_store_over.executor": "Run",
+    "Python.occurrence_of_a.executor": "Run",
+    "Python.replace_with_$.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
