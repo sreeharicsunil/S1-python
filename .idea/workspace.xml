@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a795b05-0996-4a4a-ac0a-705ef7d250d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/area_of_a_circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biggest_among_3_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/character_exchange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compute_n+nn+nnn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_extension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_and_last_in_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/co2_1_factorial_of_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/co2_2_fibonacci_of_N_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/co2_3_sum_of_all_itm_in_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/co2_5_step_piramid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_and_last col_from _col_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/replace_with_$.py" beforeDir="false" afterPath="$PROJECT_DIR$/replace_with_$.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +44,10 @@
     "Python.area_of_a_circle.executor": "Run",
     "Python.biggest_among_3_numbers.executor": "Run",
     "Python.character exchange.executor": "Run",
+    "Python.co2_1_factorial_of_num.executor": "Run",
+    "Python.co2_2_fibonacci_of_N_num.executor": "Run",
+    "Python.co2_3_sum_of_all_itm_in_list.executor": "Run",
+    "Python.co2_5_step_piramid.executor": "Run",
     "Python.compare_two_lists.executor": "Run",
     "Python.compute_n+nn+nnn.executor": "Run",
     "Python.count of words.executor": "Run",
