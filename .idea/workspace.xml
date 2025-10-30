@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a795b05-0996-4a4a-ac0a-705ef7d250d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/co2_1_factorial_of_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/co2_2_fibonacci_of_N_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/co2_3_sum_of_all_itm_in_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/co2_5_step_piramid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_and_last col_from _col_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/co2_11_lamda_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/co2_6_chr_freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/co3_1_create_pakage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/co3_packges_mai_folder/graphics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/co3_packges_mai_folder/graphics/circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/co3_packges_mai_folder/graphics/graphics_3d/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/co3_packges_mai_folder/graphics/graphics_3d/cuboid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/co3_packges_mai_folder/graphics/graphics_3d/sphere.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/co3_packges_mai_folder/graphics/rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/co3_packges_mai_folder/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_and_last col_from _col_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_and_last col_from _col_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +54,15 @@
     "Python.co2_2_fibonacci_of_N_num.executor": "Run",
     "Python.co2_3_sum_of_all_itm_in_list.executor": "Run",
     "Python.co2_5_step_piramid.executor": "Run",
+    "Python.co2_6_chr_freq.executor": "Run",
     "Python.compare_two_lists.executor": "Run",
     "Python.compute_n+nn+nnn.executor": "Run",
     "Python.count of words.executor": "Run",
     "Python.file_extension.executor": "Run",
+    "Python.first_and_last col_from _col_list.executor": "Run",
     "Python.first_and_last_in_list.executor": "Run",
     "Python.greater_than_100_store_over.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.occurrence_of_a.executor": "Run",
     "Python.replace_with_$.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
